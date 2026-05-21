@@ -47,4 +47,4 @@ Tables included:
 
   ## Project Files
 - [SQL Source Code](Inventory.sql)
-- [Project Report PDF](Inventory_Management_System_Report.pdf)
+- [Project Report PDF](Inventory%20Management%20System.pdf)
