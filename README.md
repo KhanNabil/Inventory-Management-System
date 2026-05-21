@@ -46,6 +46,6 @@ Tables included:
 - Relational database design
 
   ## Project Files
-- [SQL Source Code](Inventory.sql)
+- [SQL Source Code](Inventory_Management_System.sql)
 - [Project Report PDF](Inventory%20Management%20System.pdf)
-- [Database Schema](ERDiagram.png)
+- [Database Schema](ERD_Inventory_Management_System.png)
