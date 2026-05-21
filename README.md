@@ -35,3 +35,16 @@ Tables included:
 - COALESCE
 - Query optimization
 - Relational database design
+
+## Key SQL Concepts Used
+- INNER JOIN / LEFT JOIN
+- GROUP BY
+- Aggregate Functions
+- COALESCE
+- ORDER BY
+- Revenue calculations
+- Relational database design
+
+  ## Project Files
+- [SQL Source Code](Inventory.sql)
+- [Project Report PDF](Inventory_Management_System_Report.pdf)
