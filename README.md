@@ -48,3 +48,4 @@ Tables included:
   ## Project Files
 - [SQL Source Code](Inventory.sql)
 - [Project Report PDF](Inventory%20Management%20System.pdf)
+- [Database Schema](ERDiagram.png)
